@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
- public class Spiral
+public class Spiral
  {
     /// <summary>
     /// Function which calculates the sum of each other number from start to limit
@@ -158,6 +158,35 @@ using System.Text;
 
     public static int Main()
     {
+
+        int x;
+        int y;
+        Console.WriteLine("Spiral values");
+        Console.WriteLine("...  20  19  18  17  16");
+        Console.WriteLine("...  21  6   5   4   15");
+        Console.WriteLine("...  22  7   0   3   14");
+        Console.WriteLine("...  23  8   1   2   13");
+        Console.WriteLine("...  24  9   10  11  12");
+        Console.WriteLine("...  25  26  27  28  29 ...");
+
+        Console.WriteLine("Press 1 to manual input");
+        Console.WriteLine("Press 2 to run some hardcoded values");
+        int k = int.Parse(Console.ReadLine());
+        if (k == 1)
+        {
+            Console.WriteLine("Insert value for x: ");
+            x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Insert value for y: ");
+            y = int.Parse(Console.ReadLine());
+            Console.WriteLine("Value for: (" + x + ", " + y + ") = " + GetNumberAtPosition(x, y));
+        }
+        else
+        {
+            Console.WriteLine("Value for: (5, -5) = " + GetNumberAtPosition(5, -5));
+            Console.WriteLine("Value for: (0, -3) = " + GetNumberAtPosition(0, -3));
+            Console.WriteLine("Value for: (2, 2) = " + GetNumberAtPosition(2, 2));
+            Console.ReadKey();
+        }
         return 0;
     }
 }
