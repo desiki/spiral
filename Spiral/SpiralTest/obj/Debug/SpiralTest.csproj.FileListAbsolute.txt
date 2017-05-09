@@ -1,0 +1,8 @@
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\obj\Debug\SpiralTest.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\bin\Debug\SpiralTest.dll
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\bin\Debug\SpiralTest.pdb
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\bin\Debug\Spiral.exe
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\bin\Debug\Spiral.pdb
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\obj\Debug\SpiralTest.dll
+C:\Users\David\Documents\nextgames\spiral\Spiral\SpiralTest\obj\Debug\SpiralTest.pdb

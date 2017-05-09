@@ -1,0 +1,5 @@
+C:\Users\David\Documents\nextgames\spiral\Spiral\Spiral\bin\Debug\Spiral.exe
+C:\Users\David\Documents\nextgames\spiral\Spiral\Spiral\bin\Debug\Spiral.pdb
+C:\Users\David\Documents\nextgames\spiral\Spiral\Spiral\obj\Debug\Spiral.exe
+C:\Users\David\Documents\nextgames\spiral\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\David\Documents\nextgames\spiral\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
