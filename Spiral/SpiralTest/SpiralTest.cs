@@ -242,6 +242,7 @@ namespace SpiralTest
             long expectedValue = -1;
             Assert.AreEqual(Spiral.GetNumberAtPosition(x, y), expectedValue);
         }
+
         [TestMethod]
         public void Test_Result_GetNumberAtPosition_test10()
         {
